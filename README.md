@@ -1,5 +1,7 @@
 # Silt
 
+Live at [silt.swninja.dev](https://silt.swninja.dev).
+
 A flow-field print studio. Particles are carried by the curl of a scalar
 potential — a divergence-free field — so the ink keeps its ribbons instead of
 averaging into mud. Colour is a passive scalar seeded by position, then
